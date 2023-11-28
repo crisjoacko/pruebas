@@ -1,0 +1,88 @@
+body {
+  background-color: black;
+}
+
+.nombre {
+  color: white;
+  text-shadow: violet 2px 2px;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+}
+
+.logo {
+  background-attachment: fixed;
+  position: relative;
+  background-repeat: no-repeat;
+  opacity: 0.1;
+  display: inline-block;
+}
+
+.bienvenido {
+  color: white;
+  text-shadow: tomato 2px 2px;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.prog {
+  color: gray;
+  position: absolute;
+  top: 40%;
+  left: 0.5%;
+  cursor: pointer;
+}
+
+.desarrollo {
+  color: #eff;
+  display: inline-block;
+  position: absolute;
+  top: 25%;
+  left: 0.3%;
+}
+
+.email {
+  position: absolute;
+  top: 15%;
+  right: 10%;
+}
+
+.contra {
+  position: absolute;
+  top: 19%;
+  right: 10%;
+}
+
+.button {
+  position: absolute;
+  top: 25%;
+  right: 19%;
+}
+
+.password {
+  position: absolute;
+  top: 25%;
+  right: 5%;
+}
+
+#registro {
+  position: absolute;
+  top: 5%;
+  right: 15%;
+  color: white;
+  margin-top: 0%;
+}
+
+.devs {
+  bottom: 50%;
+  text-align: justify;
+  left: 0%;
+  position: absolute;
+  color:white
+}
